@@ -193,4 +193,3 @@ O **Builder Pattern** ajuda você a:
 * Reduzir erros e duplicações
 * Manter regras de negócio centralizadas
 
-Se quiser, posso gerar um *slide*, um *resumo visual* ou até uma *fala de apresentação*. Só dizer o formato!
