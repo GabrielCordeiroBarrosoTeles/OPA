@@ -176,7 +176,3 @@ foreach ($this->notifications as $notification) {
 
 > “Open/Closed não é só sobre escrever menos — é sobre escrever melhor. Ao invés de mudar código que já funciona, eu crio novas peças que se encaixam perfeitamente.”
 
----
-
-Se quiser, posso montar um **slide com diagrama**, um **script de apresentação** ou até uma **imagem comparativa** com o código "antes/depois". Quer que eu gere algo visual?
-
